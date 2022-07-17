@@ -1,4 +1,4 @@
-# ip-tracker-v2.0
+# ip-tracker
 This is an updated and advanced version of the previously published ip tracker with more functionality.
 
 # How to use?
@@ -6,9 +6,9 @@ This is an updated and advanced version of the previously published ip tracker w
 ```
 git clone https://github.com/dahlah270/ip-track.git
 ```
-* Then run the IpTrackerv.py file:
+* Then run the iptracker.py file:
 ```
-python IpTracker.py
+python iptracker.py
 ```
 ### Disclaimer !!
 
